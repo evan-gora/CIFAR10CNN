@@ -1,4 +1,4 @@
-# CIFAR10CNN
+# CIFAR10 Convolutional Nerual Network
 
 This project is a convolutional neural network for the CIFAR10 dataset built using Pytorch
 
